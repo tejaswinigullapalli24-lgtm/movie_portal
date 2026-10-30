@@ -1,0 +1,340 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "genre": "Sci-Fi",
+      "releaseYear": 2010,
+      "rating": 8.8,
+      "duration": "148 min",
+      "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page",
+        "Tom Hardy"
+      ],
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "genre": "Action",
+      "releaseYear": 2008,
+      "rating": 9,
+      "duration": "152 min",
+      "poster": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine"
+      ],
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "genre": "Sci-Fi",
+      "releaseYear": 2014,
+      "rating": 8.7,
+      "duration": "169 min",
+      "poster": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine"
+      ],
+      "featured": true
+    },
+    {
+      "id": "4",
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "genre": "Crime",
+      "releaseYear": 1994,
+      "rating": 8.9,
+      "duration": "154 min",
+      "poster": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption in Los Angeles.",
+      "cast": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson",
+        "Bruce Willis"
+      ],
+      "featured": false
+    },
+    {
+      "id": "5",
+      "title": "Parasite",
+      "director": "Bong Joon Ho",
+      "genre": "Drama",
+      "releaseYear": 2019,
+      "rating": 8.5,
+      "duration": "132 min",
+      "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "cast": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong",
+        "Choi Woo-shik"
+      ],
+      "featured": false
+    },
+    {
+      "id": "6",
+      "title": "Dune: Part Two",
+      "director": "Denis Villeneuve",
+      "genre": "Sci-Fi",
+      "releaseYear": 2024,
+      "rating": 8.6,
+      "duration": "166 min",
+      "poster": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible future.",
+      "cast": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson",
+        "Javier Bardem"
+      ],
+      "featured": true
+    },
+    {
+      "id": "7",
+      "title": "Oppenheimer",
+      "director": "Christopher Nolan",
+      "genre": "Drama",
+      "releaseYear": 2023,
+      "rating": 8.9,
+      "duration": "180 min",
+      "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during the Manhattan Project.",
+      "cast": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon",
+        "Robert Downey Jr."
+      ],
+      "featured": false
+    },
+    {
+      "id": "8",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "director": "Joaquim Dos Santos, Kemp Powers",
+      "genre": "Animation",
+      "releaseYear": 2023,
+      "rating": 8.7,
+      "duration": "140 min",
+      "poster": "https://images.unsplash.com/photo-1635805737707-575885ab0820?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When heroes clash on how to handle a threat, Miles must redefine what it means to be a hero.",
+      "cast": [
+        "Shameik Moore",
+        "Hailee Steinfeld",
+        "Oscar Isaac",
+        "Daniel Kaluuya"
+      ],
+      "featured": false
+    },
+    {
+      "id": "9",
+      "title": "The Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "genre": "Action",
+      "releaseYear": 1999,
+      "rating": 8.7,
+      "duration": "136 min",
+      "poster": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1510519138171-cbe656631e07?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "cast": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving"
+      ],
+      "featured": false
+    },
+    {
+      "id": "10",
+      "title": "The Grand Budapest Hotel",
+      "director": "Wes Anderson",
+      "genre": "Comedy",
+      "releaseYear": 2014,
+      "rating": 8.1,
+      "duration": "99 min",
+      "poster": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+      "cast": [
+        "Ralph Fiennes",
+        "Tony Revolori",
+        "Saoirse Ronan",
+        "Willem Dafoe"
+      ],
+      "featured": false
+    },
+    {
+      "id": "11",
+      "title": "Se7en",
+      "director": "David Fincher",
+      "genre": "Thriller",
+      "releaseYear": 1995,
+      "rating": 8.6,
+      "duration": "127 min",
+      "poster": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "cast": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey",
+        "Gwyneth Paltrow"
+      ],
+      "featured": false
+    },
+    {
+      "id": "12",
+      "title": "Everything Everywhere All at Once",
+      "director": "Daniel Kwan, Daniel Scheinert",
+      "genre": "Adventure",
+      "releaseYear": 2022,
+      "rating": 8.8,
+      "duration": "139 min",
+      "poster": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
+      "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+      "synopsis": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "cast": [
+        "Michelle Yeoh",
+        "Stephanie Hsu",
+        "Ke Huy Quan",
+        "Jamie Lee Curtis"
+      ],
+      "featured": true
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "name": "Sci-Fi",
+      "description": "Science fiction speculative fiction exploring futuristic concepts, space exploration, and time travel."
+    },
+    {
+      "id": "2",
+      "name": "Action",
+      "description": "Fast-paced cinema featuring high-energy stunts, choreography, chases, and dramatic conflicts."
+    },
+    {
+      "id": "3",
+      "name": "Drama",
+      "description": "Narrative fiction focusing on realistic characters facing deep emotional struggles and moral dilemmas."
+    },
+    {
+      "id": "4",
+      "name": "Crime",
+      "description": "Stories centering around illegal masterminds, detectives, heists, and the justice system."
+    },
+    {
+      "id": "5",
+      "name": "Comedy",
+      "description": "Lighthearted entertainment designed to amuse, provoke laughter, and spotlight whimsical ironies."
+    },
+    {
+      "id": "6",
+      "name": "Animation",
+      "description": "Artful visual storytelling using computer-generated or hand-drawn sequences for all audiences."
+    },
+    {
+      "id": "7",
+      "name": "Thriller",
+      "description": "Suspenseful, tension-building narratives with unexpected plot twists and psychological intrigue."
+    },
+    {
+      "id": "8",
+      "name": "Adventure",
+      "description": "Epic journeys, exploration of exotic locales, and courageous quests through perilous horizons."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "movieId": "1",
+      "reviewerName": "Sarah Jenkins",
+      "rating": 9,
+      "comment": "An extraordinary cinematic tour de force. Nolan's multi-layered dream logic keeps you on the edge of your seat until the spinning top wobbles.",
+      "createdAt": "2026-01-14T18:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "movieId": "1",
+      "reviewerName": "Marcus Vance",
+      "rating": 9,
+      "comment": "Hans Zimmer's soundtrack elevates every scene. The zero-gravity hallway fight remains one of the best stunts ever choreographed.",
+      "createdAt": "2026-02-02T10:15:00.000Z"
+    },
+    {
+      "id": "3",
+      "movieId": "2",
+      "reviewerName": "Elena Rostova",
+      "rating": 10,
+      "comment": "Heath Ledger gives a defining performance of our generation. Gritty, intense, and philosophically profound superhero cinema.",
+      "createdAt": "2026-02-18T14:45:00.000Z"
+    },
+    {
+      "id": "4",
+      "movieId": "3",
+      "reviewerName": "David Chen",
+      "rating": 9,
+      "comment": "Emotionally devastating and scientifically awe-inspiring. The depiction of relativistic time dilation on Miller's planet is unforgettable.",
+      "createdAt": "2026-03-01T09:20:00.000Z"
+    },
+    {
+      "id": "5",
+      "movieId": "6",
+      "reviewerName": "Aaliyah Patel",
+      "rating": 9,
+      "comment": "Denis Villeneuve cemented his place as the sci-fi visionary of our era. The sandworm riding sequence gave me literal chills.",
+      "createdAt": "2026-03-12T20:05:00.000Z"
+    },
+    {
+      "id": "6",
+      "movieId": "7",
+      "reviewerName": "Julian Thorne",
+      "rating": 9,
+      "comment": "Cillian Murphy conveys immense inner turmoil with just his eyes. The Trinity test sequence was masterfully quiet before the shockwave.",
+      "createdAt": "2026-03-22T16:40:00.000Z"
+    },
+    {
+      "id": "7",
+      "movieId": "8",
+      "reviewerName": "Maya Lin",
+      "rating": 10,
+      "comment": "Every single frame is worthy of being framed in a modern art gallery. The blend of art styles and emotional depth is unparalleled.",
+      "createdAt": "2026-04-05T11:10:00.000Z"
+    },
+    {
+      "id": "8",
+      "movieId": "12",
+      "reviewerName": "Lucas Weber",
+      "rating": 9,
+      "comment": "Chaotic, profound, funny, and deeply touching. It turned a pair of rocks with googly eyes into one of the most emotional scenes in film.",
+      "createdAt": "2026-04-18T13:25:00.000Z"
+    }
+  ]
+}
